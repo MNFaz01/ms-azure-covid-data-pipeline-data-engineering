@@ -1,7 +1,7 @@
-# ms-azure-covid-data-pipeline-data-engineering
 
-Project Title: Covid Data Pipeline using Microsoft Azure
-Overview
+##  Project Title: Covid Data Pipeline using Microsoft Azure
+
+# Overview
 This project is an implementation of a Covid data pipeline using various Microsoft Azure services, such as Azure Data Lake Gen 2 Storage, Blob Storage, Azure Databricks, PySpark, and Azure Data Factory. The goal of this project is to extract, transform, and load (ETL) Covid data from the European Centre for Disease Prevention and Control (ECDC) website for further analysis and visualization in PowerBI.
 Table of Contents
 1.	Data Source
