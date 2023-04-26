@@ -1,0 +1,9 @@
+{
+	"name": "mf-covid-reporting-adf",
+	"location": "canadaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "adcaaa47-8539-4aa3-bba4-323b0323e324",
+		"tenantId": "0876329c-d8e5-4837-9f92-24a413760499"
+	}
+}
