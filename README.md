@@ -11,7 +11,9 @@ Table of Contents
 5.	Output and Visualization
 6.	Limitations and Future Improvements
 
-       <img width="635" alt="Data_Architecture" src="https://user-images.githubusercontent.com/76795935/235162211-ec368d74-c6c1-4efd-9a2b-bdeda1339328.png">
+
+![Data_Architecture](https://user-images.githubusercontent.com/76795935/235162653-9cc0d86e-8a9a-4a09-add2-353246ea1b6e.png)
+
 
 ## Data Source
 The data for this project is sourced from the ECDC website, which provides up-to-date and reliable information on Covid cases across Europe. The data is ingested into Azure Blob Storage for initial storage.
